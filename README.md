@@ -2,6 +2,12 @@
 
 This plugin sends a HTTP/HTTPS request to a user speficied URL.
 
+## Test
+可以执行成功：mvn test
+
+## package
+可以执行成功：mvn package,生成*.jar/*.hpi(插件安装）
+
 ## Features
 
 The following features are available in both Pipeline and traditional
